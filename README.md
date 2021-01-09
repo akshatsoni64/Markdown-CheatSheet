@@ -1,4 +1,5 @@
 # Markdown-CheatSheet
+Big thanks to [Brad Traversy](https://github.com/bradtraversy) for the cheatsheet.
 
 <!-- Headings -->
 # Heading 1
