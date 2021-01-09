@@ -2,12 +2,12 @@
 Big thanks to [Brad Traversy](https://github.com/bradtraversy) for the cheatsheet.
 
 <!-- Headings -->
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
 <!-- Italics -->
 *This text* is italic
@@ -31,9 +31,9 @@ ___
 > This is a quote
 
 <!-- Links -->
-[Traversy Media](http://www.traversymedia.com)
+[Link](https://github.com/akshatsoni64)
 
-[Traversy Media](http://www.traversymedia.com "Traversy Media")
+[Link with title](https://github.com/akshatsoni64 "My Github")
 
 <!-- UL -->
 * Item 1
@@ -63,12 +63,14 @@ ___
 ```
 
 ```javascript
+  // Javascript Codeblock Example
   function add(num1, num2) {
     return num1 + num2;
   }
 ```
 
 ```python
+  # Python Codeblock Example
   def add(num1, num2):
     return num1 + num2
 ```
