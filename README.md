@@ -31,9 +31,9 @@ ___
 > This is a quote
 
 <!-- Links -->
-[Link](https://github.com/akshatsoni64)
+[Link](https://github.com/akshatsoni64/Markdown-CheatSheet)
 
-[Link with title](https://github.com/akshatsoni64 "My Github")
+[Link with title](https://github.com/akshatsoni64/Markdown-CheatSheet "My Github")
 
 <!-- UL -->
 * Item 1
